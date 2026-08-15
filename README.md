@@ -15,10 +15,10 @@ The multiple-knapsack result is intentionally heuristic and is not guaranteed to
 
 | Path | Purpose |
 | --- | --- |
-| `single_knapsack.py` | Dynamic-programming implementation for one knapsack. |
-| `multiple_knapsack.py` | Greedy implementation for multiple knapsacks. |
-| `data/` | Example CSV inputs used during the project. |
-| `CT_Proj.pptx` | Project presentation covering the algorithms and their complexity. |
+| [`single_knapsack.py`](./single_knapsack.py) | Dynamic-programming implementation for one knapsack. |
+| [`multiple_knapsack.py`](./multiple_knapsack.py) | Greedy implementation for multiple knapsacks. |
+| [`data/`](./data) | Example CSV inputs used during the project. |
+| [`CT_Proj.pptx`](./CT_Proj.pptx) | Project presentation covering the algorithms and their complexity. |
 
 ## Using the code
 
